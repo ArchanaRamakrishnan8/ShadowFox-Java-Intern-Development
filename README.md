@@ -1,7 +1,10 @@
 # ShadowFox-Java-Intern-Development
 🚀 Java Beginner Level Project Task-2: Simple Contact Management System 📞
 🧮 ShadowFox Services Pvt. Ltd.
-📜 Project Description: The Contact Management System is a console-based application designed to perform essential contact management tasks. It's a beginner-friendly project that lays the foundation for building more advanced applications.
+
+📜 Project Description:
+
+The Contact Management System is a console-based application designed to perform essential contact management tasks. It's a beginner-friendly project that lays the foundation for building more advanced applications.
 
 Key Features✒️:
 
