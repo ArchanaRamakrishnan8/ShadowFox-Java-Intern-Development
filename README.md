@@ -5,8 +5,11 @@
 
 Key Features✒️::
 ✅ Add Contacts: Create and store contact details (Name, Phone, Email).
+
 ✅ View Contacts: Display a list of all saved contacts in a structured format.
+
 ✅ Update Contacts: Edit existing contact information.
+
 ✅ Delete Contacts: Remove unnecessary contacts from the list.
 
  Technical Specifications:
